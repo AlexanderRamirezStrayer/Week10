@@ -16,7 +16,7 @@ Since this program uses an in-memory database, it does not require any setup or 
 
 - Execute: Run the script from your terminal or IDE:
 
-```
+```python
 python sql_demonstration.py
 ```
 
