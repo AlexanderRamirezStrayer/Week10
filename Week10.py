@@ -1,3 +1,10 @@
+"""
+Name: Alexander Ramirez
+CIS261 - Week10
+Week 10 Assignment - Python SQL Statements Lab
+December 14, 2025
+"""
+
 import sqlite3
 import sys
 
