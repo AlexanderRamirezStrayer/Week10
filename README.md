@@ -2,6 +2,7 @@
 This application fulfills the requirement of demonstrating Python code structure for the following SQL operations:
 
 | Requirement | SQL Statement Demonstrated | Description |
+| :--- | :--- | :--- |
 | Connection & Cursor | sqlite3.connect(':memory:') | Establishes an in-memory database connection and cursor. |
 | CREATE TABLE | CREATE TABLE phone (...) | Creates the specified phone table with PRIMARY KEY and NOT NULL constraints. |
 | SELECT Rows | SELECT phone_number FROM phone WHERE country_code = "US" | Retrieves the phone numbers matching a specific country code. |
